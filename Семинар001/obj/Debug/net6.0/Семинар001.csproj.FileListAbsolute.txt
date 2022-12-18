@@ -1,0 +1,15 @@
+D:\ДЗ\семинар12\Семинар1\Семинар001\bin\Debug\net6.0\Семинар001.exe
+D:\ДЗ\семинар12\Семинар1\Семинар001\bin\Debug\net6.0\Семинар001.deps.json
+D:\ДЗ\семинар12\Семинар1\Семинар001\bin\Debug\net6.0\Семинар001.runtimeconfig.json
+D:\ДЗ\семинар12\Семинар1\Семинар001\bin\Debug\net6.0\Семинар001.dll
+D:\ДЗ\семинар12\Семинар1\Семинар001\bin\Debug\net6.0\Семинар001.pdb
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.csproj.AssemblyReference.cache
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.AssemblyInfoInputs.cache
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.AssemblyInfo.cs
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.csproj.CoreCompileInputs.cache
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.dll
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\refint\Семинар001.dll
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.pdb
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\Семинар001.genruntimeconfig.cache
+D:\ДЗ\семинар12\Семинар1\Семинар001\obj\Debug\net6.0\ref\Семинар001.dll
